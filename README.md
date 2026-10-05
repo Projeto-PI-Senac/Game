@@ -69,3 +69,5 @@ gcc main.c jogo.c -o jogo -lallegro -lallegro_main -lallegro_primitives -lallegr
 2. Pressione a tecla **F5** (ou clique no botão verde **Iniciar**) para compilar e executar o jogo.
 
 **Nota**: Certifique-se de que os arquivos de mídia (imagens, sons, fontes) estejam na mesma pasta do arquivo de solução/executável.
+
+### Teste 
